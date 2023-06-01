@@ -41,6 +41,7 @@ sndScifiHit.cxx
 sndCluster.cxx
 SNDLHCEventHeader.cxx
 sndRecoTrack.cxx
+vertexing_01.06.C
 )
 
 Set(HEADERS )
